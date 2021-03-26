@@ -44,6 +44,7 @@ a:hover{
 }
 
 .hr_dotted {
+  border: 0;
   border-top: 6px dotted lightgray;
   width: 8%;
   margin: 100px auto;
