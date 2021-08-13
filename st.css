@@ -55,6 +55,7 @@ a:hover{
 }
 
 .title{
+  font-family: 'Patrick Hand', cursive;
   font-size: 3.5rem;
   color: #007580;
   line-height: 1;
@@ -94,8 +95,8 @@ a:hover{
 }
 
 .img_profile{
-  width: 10%;
-  height: 7%;
+  width: 12rem;
+  height: 13rem;
   border-radius: 100%;
 }
 
